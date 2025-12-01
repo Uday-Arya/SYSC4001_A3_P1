@@ -1,5 +1,4 @@
 /**
- * @file interrupts.hpp
  * @author Sasisekhar Govind
  * @brief template main.cpp file for Assignment 3 Part 1 of SYSC4001
  * 
